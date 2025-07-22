@@ -1,0 +1,14 @@
+name: seg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-image
+  - matplotlib
+  - tqdm
+  - pillow
+  - tensorflow=2.15
+  - keras
+  - pytest
